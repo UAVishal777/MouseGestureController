@@ -44,13 +44,13 @@ I have made a Hand Gesture based cursor controller. The cursor moves as we move 
 ## :dart: How To Use ##
 
 ### Basic Interface:-
-![Basic Interface](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/6b85122436aa3ecfd90b64133dc53c94bafa17a4/images/Basic%20Interface%20Introduction.png)
+
 
 ### Moving Cursor with Index Finger Movement:-
-![Moving Cursor with Index Finger Movement](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Moving%20Cursor%20Demo.gif)
+![Moving Cursor with Index Finger Movement]
 
 ### Clicking on Screen(By touching Thumb & Little Finger):-
-![Clicking on Screen](https://github.com/UtkarshPrajapati/Gesture-Controlled-Mouse/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Clicking%20on%20Screen.gif)
+![Clicking on Screen]
 
 
 ## :sparkles: Features ##
@@ -92,7 +92,7 @@ $ jupyter nbconvert --execute Mouse Controller.ipynb
 
 ## :memo: Made By ##
 
-Made with :heart: by <a href="https://github.com/UtkarshPrajapati" target="_blank">Utkarsh Prajapati</a>
+Made with :heart: by <a href="https://github.com/uavishal777" target="_blank">Vishal Mishra</a>
 
 &#xa0;
 
