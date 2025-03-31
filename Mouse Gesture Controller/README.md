@@ -32,7 +32,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-Made-By">Made By</a> &#xa0; | &#xa0;
-  <a href="https://github.com/UtkarshPrajapati" target="_blank">Author</a>
+  <a href="https://github.com/UAVishal777" target="_blank">Author</a>
 </p>
 
 <br>
